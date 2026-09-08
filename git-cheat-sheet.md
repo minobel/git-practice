@@ -13,4 +13,4 @@ Keep your local machine updated with your team's code and share your work.
 * **What it does:** Uploads your local commits to the remote server.
 * `git push -u origin <branch-name>`
 * **What it does:** Links a brand-new local branch to the remote repository and uploads it for the first time.
-* `git fetch` the file and then update
+* `git fetch` the file and then update.
